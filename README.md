@@ -14,3 +14,5 @@ One to retrieve the current weather conditions of the inputted city
 and one to retrieve the forecast for the coming week.
 
 The information is dynamically displayed, so users can enter different city names and get different weather forecasts for those cities.
+
+![image](https://github.com/user-attachments/assets/0fa03e39-b38d-4452-a26d-e3735e4b3b71)
